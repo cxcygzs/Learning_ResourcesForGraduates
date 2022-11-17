@@ -3,7 +3,7 @@
 ---
 ### 知识图谱
 1. [网络空间安全知识图谱 可以通过sparql endpoint 查询]( https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
-2. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/"一个搜索引擎")
+2. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 3. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro"一个搜索引擎")
 4. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/ "一个搜索引擎")
 5. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4"一个搜索引擎" )
