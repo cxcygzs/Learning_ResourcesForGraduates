@@ -18,16 +18,13 @@
 
 ---
 ### 论文与数据集类
-1. [清华刘知远教授推荐的知识表示学习论文清单](https://github.com/thunlp/KRLPapers) 2. [清华刘知远教授关于知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
-3. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
-5. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
-6. 11. [命名实体识别有代码的论文](https://paperswithcode.com/task/cg)
-7. [基于神经网络的关系抽取必读论文](https://github.com/thunlp/NREPapers) [关系抽取有代码的论文](https://paperswithcode.com/task/relation-extraction)
-8. [知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
-9. [实体链接有代码的论文](https://paperswithcode.com/task/entity-linking)
-10. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion)
-11. 
-
+1. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
+2. [命名实体识别有代码的论文](https://paperswithcode.com/task/cg)
+3. [关系抽取有代码的论文](https://paperswithcode.com/task/relation-extraction) [基于神经网络的关系抽取必读论文](https://github.com/thunlp/NREPapers) 
+4. [清华刘知远教授推荐的知识表示学习论文清单](https://github.com/thunlp/KRLPapers) [知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
+5. [实体链接有代码的论文](https://paperswithcode.com/task/entity-linking)
+6. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion) 
+7. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
 
 
 ---
