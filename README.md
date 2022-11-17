@@ -1,5 +1,5 @@
 # [知识图谱学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
-## 整理学习资料
+
 ---
 ### 知识图谱系统
 1. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
@@ -30,7 +30,7 @@
 ### 课程类
 1. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
 2. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
-3. [斯坦福大学《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
+3. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
 4. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
 5. [dbpedia如何从Wikipedia中抽取知识](https://github.com/dbpedia/)
 6. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
