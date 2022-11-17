@@ -21,7 +21,6 @@
 1. [清华刘知远教授推荐的知识表示学习论文清单](https://github.com/thunlp/KRLPapers)
 2. [清华刘知远教授关于知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
 3. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
-4. [知识图表论文、代码和阅读笔记的集合]( https://github.com/shaoxiongji/knowledge-graphs)
 5. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
 6. [基于神经网络的关系抽取必读论文](https://github.com/thunlp/NREPapers)
 7. [知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
@@ -29,7 +28,7 @@
 9. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion)
 10. [关系抽取有代码的论文](https://paperswithcode.com/task/relation-extraction)
 11. [命名实体识别有代码的论文](https://paperswithcode.com/task/cg)
-12. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
+
 
 ---
 ### 课程类
@@ -37,6 +36,7 @@
 2. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
 3. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
 4. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
-5. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
-6. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
+5. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
+6. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
+7. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
 
