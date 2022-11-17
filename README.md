@@ -3,12 +3,11 @@
 ---
 ### 知识图谱系统
 1. [The Linked Open Data Cloud](https://lod-cloud.net/)
-2. [DBpedia](https://www.dbpedia.org/) [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
+2. [DBpedia](https://www.dbpedia.org/)         [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
 3. [YAGO: A High-Quality Knowledge Base](https://yago-knowledge.org/)
 4. [WordNet](https://wordnet.princeton.edu/)
 5. [NELL](https://www.cmu.edu/homepage/computing/2010/fall/nell-computer-that-learns.shtml)
-6. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
-7. 
+6. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/) 
 8. [开放的中文知识图谱](http://www.openkg.cn/)
 9. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
 10. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
