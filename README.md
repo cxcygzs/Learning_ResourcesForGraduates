@@ -2,7 +2,7 @@
 ## 整理学习资料
 ---
 ### 知识图谱
-1. [网络空间安全知识图谱 可以通过sparql endpoint 查询]( https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/"一个搜索引擎")
+1. [网络空间安全知识图谱 可以通过sparql endpoint 查询]( https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
 2. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/"一个搜索引擎")
 3. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro"一个搜索引擎")
 4. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/ "一个搜索引擎")
@@ -28,5 +28,5 @@
 ### 课程类
 1. [斯坦福大学课程]( http://web.stanford.edu/class/cs224w/index.html"一个搜索引擎")
 2. [dbpedia如何从Wikipedia中抽取知识](https://github.com/dbpedia/"一个搜索引擎")
-3. [earning sparql这本书对应网站的例子](http://learningsparql.com/2ndeditionexamples/index.html"一个搜索引擎")
+3. [Learning sparql这本书对应网站的例子](http://learningsparql.com/2ndeditionexamples/index.html"一个搜索引擎")
 4. [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/ "一个搜索引擎")
