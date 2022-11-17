@@ -13,7 +13,7 @@
 
 ---
 ### 论文与数据集类
-1. [刘知远教授推荐的论文清单](https://github.com/thunlp/KRLPapers)
+1. [刘知远教授推荐的知识表示学习论文清单](https://github.com/thunlp/KRLPapers)
 2. [清华刘知远教授关于知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
 3. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
 4. [知识图表论文、代码和阅读笔记的集合]( https://github.com/shaoxiongji/knowledge-graphs)
