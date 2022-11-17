@@ -28,7 +28,8 @@
 ---
 ### 课程类
 1. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
-2. [斯坦福大学《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
-3. [dbpedia如何从Wikipedia中抽取知识](https://github.com/dbpedia/)
-4. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
-5. [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
+2. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
+3. [斯坦福大学《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
+4. [dbpedia如何从Wikipedia中抽取知识](https://github.com/dbpedia/)
+5. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
+6. [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
