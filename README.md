@@ -2,7 +2,7 @@
 ## 整理学习资料
 ---
 ### 知识图谱
-1. [网络空间安全知识图谱 可以通过sparql endpoint 查询]( https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
+1. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
 2. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 3. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
 5. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
@@ -12,21 +12,21 @@
 
 ---
 ### 论文与数据集类
-1. [刘知远教授推荐的论文清单]( https://github.com/thunlp/KRLPapers)
-2. [清华刘知远教授关于知识图谱推理的必读论文]( https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
+1. [刘知远教授推荐的论文清单](https://github.com/thunlp/KRLPapers)
+2. [清华刘知远教授关于知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
 3. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
 4. [知识图表论文、代码和阅读笔记的集合]( https://github.com/shaoxiongji/knowledge-graphs)
 5. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
-6. [神经关系抽取必读论文]( https://github.com/thunlp/NREPapers"一个搜索引擎")
-7. [知识图谱推理的必读论文]( https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
-8. [实体链接有代码的论文]( https://paperswithcode.com/task/entity-linking)
-9. [知识图谱补全有代码的论文]( https://paperswithcode.com/task/knowledge-graph-completion)
-10. [关系抽取有代码的论文]( https://paperswithcode.com/task/relation-extraction)
-11. [命名实体识别有代码的论文]( https://paperswithcode.com/task/cg)
+6. [神经关系抽取必读论文](https://github.com/thunlp/NREPapers)
+7. [知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
+8. [实体链接有代码的论文](https://paperswithcode.com/task/entity-linking)
+9. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion)
+10. [关系抽取有代码的论文](https://paperswithcode.com/task/relation-extraction)
+11. [命名实体识别有代码的论文](https://paperswithcode.com/task/cg)
 
 ---
 ### 课程类
-1. [斯坦福大学课程]( http://web.stanford.edu/class/cs224w/index.html)
+1. [斯坦福大学课程](http://web.stanford.edu/class/cs224w/index.html)
 2. [dbpedia如何从Wikipedia中抽取知识](https://github.com/dbpedia/)
 3. [Learning sparql这本书对应网站的例子](http://learningsparql.com/2ndeditionexamples/index.html)
 4. [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
