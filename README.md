@@ -9,7 +9,7 @@
 6. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
 7. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
 8. [基础教育知识图谱](https://edukg.cn/)
-9. [漏洞知识图谱]（http://124.222.11.46:8082/index）
+9. [漏洞知识图谱](http://124.222.11.46:8082/index)
 
 ---
 ### 论文与数据集类
