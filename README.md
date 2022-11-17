@@ -2,14 +2,20 @@
 
 ---
 ### 知识图谱系统
-1. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
-2. [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
-3. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
-5. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
-6. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
-7. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
-8. [K12基础教育知识图谱](https://edukg.cn/)
-9. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
+1. [The Linked Open Data Cloud](https://lod-cloud.net/)
+2. [DBpedia](https://www.dbpedia.org/)
+3. [YAGO: A High-Quality Knowledge Base](https://yago-knowledge.org/)
+4. [WordNet](https://wordnet.princeton.edu/)
+5. [NELL](https://www.cmu.edu/homepage/computing/2010/fall/nell-computer-that-learns.shtml)
+6. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
+7. [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
+8. [开放的中文知识图谱](http://www.openkg.cn/)
+9. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
+10. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
+11. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
+12. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
+13. [K12基础教育知识图谱](https://edukg.cn/)
+14. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
 
 ---
 ### 论文与数据集类
@@ -32,6 +38,6 @@
 2. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
 3. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
 4. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
-5. [dbpedia如何从Wikipedia中抽取知识](https://github.com/dbpedia/)
+5. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
 6. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
 
