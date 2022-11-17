@@ -1,7 +1,7 @@
 # [知识图谱学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
 ## 整理学习资料
 ---
-### 知识图谱
+### 知识图谱系统
 1. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
 2. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 3. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
