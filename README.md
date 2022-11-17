@@ -26,7 +26,7 @@
 
 ---
 ### 课程类
-1. [斯坦福大学课程](http://web.stanford.edu/class/cs224w/index.html)
+1. [斯坦福大学《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
 2. [dbpedia如何从Wikipedia中抽取知识](https://github.com/dbpedia/)
-3. [Learning sparql这本书对应网站的例子](http://learningsparql.com/2ndeditionexamples/index.html)
+3. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
 4. [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
