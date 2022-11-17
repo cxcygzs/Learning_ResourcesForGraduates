@@ -1,4 +1,4 @@
-# [Learning_Resources](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
+# [知识图谱学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
 ## 整理学习资料
 ---
 ### 知识图谱
