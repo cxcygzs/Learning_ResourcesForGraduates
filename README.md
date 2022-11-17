@@ -17,7 +17,7 @@
 3. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
 4. [知识图表论文、代码和阅读笔记的集合]( https://github.com/shaoxiongji/knowledge-graphs)
 5. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
-6. [神经关系抽取必读论文](https://github.com/thunlp/NREPapers)
+6. [基于神经网络的关系抽取必读论文](https://github.com/thunlp/NREPapers)
 7. [知识图谱推理的必读论文](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
 8. [实体链接有代码的论文](https://paperswithcode.com/task/entity-linking)
 9. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion)
