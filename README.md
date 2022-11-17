@@ -3,7 +3,6 @@
 ---
 ### 知识图谱系统
 1. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/)
-2. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 3. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
 5. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
 6. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
@@ -24,6 +23,7 @@
 9. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion)
 10. [关系抽取有代码的论文](https://paperswithcode.com/task/relation-extraction)
 11. [命名实体识别有代码的论文](https://paperswithcode.com/task/cg)
+12. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 
 ---
 ### 课程类
