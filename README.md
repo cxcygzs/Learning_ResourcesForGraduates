@@ -35,5 +35,5 @@
 4. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
 5. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 6. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
-7. [《Learning sparql》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
+7. [《Learning SPARQL》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
 
