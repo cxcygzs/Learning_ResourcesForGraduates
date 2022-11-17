@@ -17,7 +17,7 @@
 14. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
 
 ---
-### 论文与数据集类
+### 知识图谱各研究方向论文及数据集
 1. [有代码的知识图谱论文及公开数据集](https://paperswithcode.com/task/knowledge-graphs)
 2. [命名实体识别有代码的论文](https://paperswithcode.com/task/cg)
 3. [关系抽取有代码的论文](https://paperswithcode.com/task/relation-extraction) [基于神经网络的关系抽取必读论文](https://github.com/thunlp/NREPapers) 
@@ -28,7 +28,7 @@
 
 
 ---
-### 课程类
+### 课程或实验室主页
 1. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
 2. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
 3. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
