@@ -11,13 +11,14 @@
 7. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
 ---
 ### 知识图谱课程或相关研究机构主页
-1. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
-2. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
-3. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
-4. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
-5. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
-6. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
-7. [《Learning SPARQL》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
+1. [浙江大学陈华钧教授知识图谱课程](https://person.zju.edu.cn/huajun)
+2. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
+3. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
+4. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
+5. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
+6. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
+7. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
+8. [《Learning SPARQL》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
 ---
 ### 知识图谱系统
 1. [The Linked Open Data Cloud](https://lod-cloud.net/)
