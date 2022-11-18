@@ -25,10 +25,10 @@
 1. [AAAI-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Faaai%3A)
 2. [KDD-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fkdd%3A)
 3. [CIKM-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fcikm%3A)
-4. [WWW-DBLP] (knowledge graph streamid:conf/www:)
-5. [EMNL-DBLP](knowledge graph streamid:conf/emnlp:)
-6. [ACL-DBLP](knowledge graph streamid:conf/acl:)
-7. [IJCAI-DBLP)(knowledge graph streamid:conf/ijcai:)
+4. [WWW-DBLP] (https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fwww%3A)
+5. [EMNLP-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Femnlp%3A)
+6. [ACL-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Facl%3A)
+7. [IJCAI-DBLP)(https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fijcai%3A)
 8. [International Joint Conference on Knowledge Graphs (IJCKG)](https://dblp.uni-trier.de/db/conf/jist/index.html)
 9. [International Workshop on Graph Structures for Knowledge Representation and Reasoning (GKR)](https://dblp.uni-trier.de/db/conf/gkr/index.html)
 10. [IEEE International Conference on Big Knowledge (ICBK) IEEE International Conference on Knowledge Graph (ICKG)](https://dblp.uni-trier.de/db/conf/icbk/index.html)
@@ -36,10 +36,10 @@
 12. [China Conference on Knowledge Graph and Semantic Computing (CCKS)中文会议 ](https://dblp.uni-trier.de/db/conf/ccks/index.html)
 
 ### 知识图谱相关期刊
-1. [Knowledge-Based Systems](knowledge graph streamid:journals/kbs:)
+1. [Knowledge-Based Systems](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A)
 2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
-3. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A))
-4. [Information Sciences]([knowledge graph streamid:journals/isci:](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A))
+3. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A)
+4. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
 
 
 ### 知识图谱系统
