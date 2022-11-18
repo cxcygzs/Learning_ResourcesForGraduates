@@ -20,6 +20,18 @@
 7. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
 8. [《Learning SPARQL》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
 ---
+
+### 知识图谱相关会议
+1. [AAAI](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Faaai%3A)
+2. [International Joint Conference on Knowledge Graphs (IJCKG)](https://dblp.uni-trier.de/db/conf/jist/index.html)
+3. [International Workshop on Graph Structures for Knowledge Representation and Reasoning (GKR)](https://dblp.uni-trier.de/db/conf/gkr/index.html)
+4. [IEEE International Conference on Big Knowledge (ICBK) IEEE International Conference on Knowledge Graph (ICKG)](https://dblp.uni-trier.de/db/conf/icbk/index.html)
+5. [Iberoamerican Conference on Knowledge Graphs and Semantic Web (KGSWC) ](https://dblp.uni-trier.de/db/conf/kgswc/index.html)
+6. [China Conference on Knowledge Graph and Semantic Computing (CCKS)中文会议 ](https://dblp.uni-trier.de/db/conf/ccks/index.html)
+
+### 知识图谱相关期刊
+
+
 ### 知识图谱系统
 1. [The Linked Open Data Cloud](https://lod-cloud.net/)
 2. [DBpedia](https://www.dbpedia.org/)         [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
