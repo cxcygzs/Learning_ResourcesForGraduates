@@ -37,9 +37,9 @@
 
 ### 知识图谱相关期刊
 1. [Knowledge-Based Systems](knowledge graph streamid:journals/kbs:)
-2. [Expert Systems with Applications](knowledge graph streamid:journals/eswa:)
-3. [Neurocomputing](knowledge graph streamid:journals/ijon:)
-4. [Information Sciences](knowledge graph streamid:journals/isci:)
+2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
+3. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A))
+4. [Information Sciences]([knowledge graph streamid:journals/isci:](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A))
 
 
 ### 知识图谱系统
