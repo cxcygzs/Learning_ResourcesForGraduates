@@ -10,7 +10,7 @@
 6. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion) 
 7. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
 ---
-### 课程或实验室主页
+### 知识图谱课程或相关研究机构主页
 1. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
 2. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
 3. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
@@ -35,7 +35,7 @@
 13. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
 14. [K12基础教育知识图谱](https://edukg.cn/)
 ### 实验室自建知识图谱系统
-16. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
-17. [食品安全知识图谱](http://124.222.11.46:8081/login/)
-18. [计算机专业课程知识图谱](http://124.222.11.46:8002/)
-19. [医疗诊断知识图谱](http://124.222.11.46:5200/)
+1. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
+2. [食品安全知识图谱](http://124.222.11.46:8081/login/)
+3. [计算机专业课程知识图谱](http://124.222.11.46:8002/)
+4. [医疗诊断知识图谱](http://124.222.11.46:5200/)
