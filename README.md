@@ -28,7 +28,7 @@
 4. [WWW-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fwww%3A)
 5. [EMNLP-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Femnlp%3A)
 6. [ACL-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Facl%3A)
-7. [IJCAI-DBLP)(https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fijcai%3A)
+7. [IJCAI-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fijcai%3A)
 8. [International Joint Conference on Knowledge Graphs (IJCKG)](https://dblp.uni-trier.de/db/conf/jist/index.html)
 9. [International Workshop on Graph Structures for Knowledge Representation and Reasoning (GKR)](https://dblp.uni-trier.de/db/conf/gkr/index.html)
 10. [IEEE International Conference on Big Knowledge (ICBK) IEEE International Conference on Knowledge Graph (ICKG)](https://dblp.uni-trier.de/db/conf/icbk/index.html)
