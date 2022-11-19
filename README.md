@@ -32,7 +32,7 @@
 10. [Knowledge Graphs: A Practical Introduction across Disciplines](https://usc-isi-i2.github.io/ASONAM2020Tutorial/2020-12-asonam-tutorial-KG.pdf)
 11. [Knowledge Graphs Applied ](https://www.manning.com/books/knowledge-graphs-applied)
 12. 《知识图谱：概念与技术》，肖仰华等著，可作为高年级本科生、硕士生或者博士生的教材
-13. 《从零构建知识图谱：技术、方法与案例》，邵浩等著，配有大量实战案例，并且开放了源代码
+13. 《从零构建知识图谱：技术、方法与案例》，邵浩等著，配有大量实战案例，开放源代码
 14. 《知识图谱：方法、实践与应用》，王昊奋，漆桂林，陈华钧编
 15. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
 ---
