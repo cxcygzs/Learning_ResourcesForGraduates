@@ -20,14 +20,17 @@
 7. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
 
 ### 知识图谱相关书籍
-1. [Knowledge Graphs Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6)
-2. [Knowledge Graphs and Big Data Processing Authors: Valentina Janev et al.免费下载](https://library.oapen.org/handle/20.500.12657/41294)
-3. [Domain-Specific Knowledge Graph Construction Authors: Mayank Kejriwal](https://link.springer.com/book/10.1007/978-3-030-12375-8)[下载](https://github.com/cxcygzs/Learning_Resources/files/10046123/Mayank_Kejriwal._Domain-Specific_Knowledge_Graph.pdf)
-
-4. [《Learning SPARQL》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
-5. [KNOWLEDGE GRAPHS](https://kgbook.org/) [github link](https://github.com/Knowledge-Graphs-Book/HTML-Book/)
-6. [Knowledge Graphs: A Practical Introduction across Disciplines](https://usc-isi-i2.github.io/ASONAM2020Tutorial/2020-12-asonam-tutorial-KG.pdf)
-7. [Knowledge Graphs Applied ](https://www.manning.com/books/knowledge-graphs-applied)
+1. [Knowledge Graphs Methodology, Tools and Selected Use Cases](https://github.com/cxcygzs/Learning_Resources/files/10046420/Knowledge.Graphs.Methodology.Tools.and.Selected.Use.Cases.pdf)
+2. [Knowledge Graphs and Big Data Processing Authors: Valentina Janev et al.](https://library.oapen.org/handle/20.500.12657/41294)
+3. [Domain-Specific Knowledge Graph Construction Authors: Mayank Kejriwal](https://github.com/cxcygzs/Learning_Resources/files/10046123/Mayank_Kejriwal._Domain-Specific_Knowledge_Graph.pdf)
+4. [Exploiting Linked Data and Knowledge Graphs in Large Organisation](https://github.com/cxcygzs/Learning_Resources/files/10046439/Exploiting.Linked.Data.and.Knowledge.Graphs.in.Large.Organisation.pdf)
+5. [Knowledge_Graphs_Data_in_Context_Responsive](https://github.com/cxcygzs/Learning_Resources/files/10046440/Knowledge_Graphs_Data_in_Context_Responsive.pdf)
+6. [the-knowledge-graph-cookbook](https://github.com/cxcygzs/Learning_Resources/files/10046442/the-knowledge-graph-cookbook.pdf)
+7. [Book_Knowledge Graphs And Big Data Processing](https://github.com/cxcygzs/Learning_Resources/files/10046447/Book_Knowledge.Graphs.And.Big.Data.Processing.pdf)
+8. [《Learning SPARQL》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
+9. [KNOWLEDGE GRAPHS](https://kgbook.org/) [github link](https://github.com/Knowledge-Graphs-Book/HTML-Book/)
+10. [Knowledge Graphs: A Practical Introduction across Disciplines](https://usc-isi-i2.github.io/ASONAM2020Tutorial/2020-12-asonam-tutorial-KG.pdf)
+11. [Knowledge Graphs Applied ](https://www.manning.com/books/knowledge-graphs-applied)
 ---
 
 ### 知识图谱相关会议
