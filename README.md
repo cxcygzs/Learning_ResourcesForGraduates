@@ -22,7 +22,7 @@
 ### 知识图谱相关书籍
 1. [Knowledge Graphs Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6)
 2. [Knowledge Graphs and Big Data Processing Authors: Valentina Janev et al.免费下载](https://library.oapen.org/handle/20.500.12657/41294)
-3. [Domain-Specific Knowledge Graph Construction Authors: Mayank Kejriwal](https://link.springer.com/book/10.1007/978-3-030-12375-8)[[Mayank_Kejriwal]_Domain-Specific_Knowledge_Graph.pdf](https://github.com/cxcygzs/Learning_Resources/files/10046123/Mayank_Kejriwal._Domain-Specific_Knowledge_Graph.pdf)
+3. [Domain-Specific Knowledge Graph Construction Authors: Mayank Kejriwal](https://link.springer.com/book/10.1007/978-3-030-12375-8)[下载](https://github.com/cxcygzs/Learning_Resources/files/10046123/Mayank_Kejriwal._Domain-Specific_Knowledge_Graph.pdf)
 
 4. [《Learning SPARQL》这本书对应网站](http://learningsparql.com/2ndeditionexamples/index.html)
 5. [KNOWLEDGE GRAPHS](https://kgbook.org/) [github link](https://github.com/Knowledge-Graphs-Book/HTML-Book/)
