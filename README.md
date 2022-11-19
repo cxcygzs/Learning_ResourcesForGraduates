@@ -31,7 +31,10 @@
 9. [KNOWLEDGE GRAPHS](https://kgbook.org/) [github link](https://github.com/Knowledge-Graphs-Book/HTML-Book/)
 10. [Knowledge Graphs: A Practical Introduction across Disciplines](https://usc-isi-i2.github.io/ASONAM2020Tutorial/2020-12-asonam-tutorial-KG.pdf)
 11. [Knowledge Graphs Applied ](https://www.manning.com/books/knowledge-graphs-applied)
-12. 《知识图谱：概念与技术》，肖仰华等 著，可作为高年级本科生、硕士生或者博士生的教材
+12. 《知识图谱：概念与技术》，肖仰华等著，可作为高年级本科生、硕士生或者博士生的教材
+13. 《从零构建知识图谱：技术、方法与案例》，邵浩等著，配有大量实战案例，并且开放了源代码
+14. 《知识图谱：方法、实践与应用》，王昊奋，漆桂林，陈华钧编
+15. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
 ---
 
 ### 知识图谱相关会议
@@ -53,6 +56,11 @@
 2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
 3. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A)
 4. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
+
+### 如何写论文
+1. [高质量读研：教你如何写论文、做科研](https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrZejWdLygv94jYmnENDxAMZJBkbNzEblgQ)
+2. [怎样顺利完成论文：论文写作的策略与技巧（第四版）](https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7Geawrbx6pNgznl9VZPLJQyEBodb89mqoO)
+3. [Zobel - Writing for computer science 3rd edition](https://github.com/cxcygzs/Learning_Resources/files/10046946/Zobel.-.Writing.for.computer.science.3rd.edition.-.pdf)
 
 
 ### 知识图谱系统
