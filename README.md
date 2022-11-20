@@ -36,6 +36,9 @@
 14. 《知识图谱：方法、实践与应用》，王昊奋，漆桂林，陈华钧编
 15. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
 16. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT）
+17. [从零构建知识图谱 技术、方法与案例](https://github.com/cxcygzs/Learning_Resources/files/10049088/default.pdf)
+
+
 ---
 
 ### 知识图谱相关会议
