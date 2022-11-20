@@ -72,7 +72,7 @@
 5. [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 6. [WordNet](https://wordnet.princeton.edu/)
 7. [NELL](https://www.cmu.edu/homepage/computing/2010/fall/nell-computer-that-learns.shtml)
-8. [网络空间安全知识图谱 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/index.php/cyber-kg/) 
+8. [网络空间安全知识图谱Sepses 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/sparql) 
 9. [开放的中文知识图谱](http://www.openkg.cn/)
 10. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
 11. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
