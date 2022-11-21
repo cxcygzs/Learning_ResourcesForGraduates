@@ -1,4 +1,4 @@
-# [知识图谱学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
+# [研究生知识图谱学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
 
 ---
 ### 知识图谱各研究方向论文及数据集
