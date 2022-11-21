@@ -9,12 +9,13 @@
 5. [实体链接有代码的论文](https://paperswithcode.com/task/entity-linking)
 6. [知识图谱补全有代码的论文](https://paperswithcode.com/task/knowledge-graph-completion) 
 7. [网络空间安全知识图谱数据集](https://sepses.ifs.tuwien.ac.at/dumps/)
+8. 
 ---
 ### 知识图谱课程或相关研究机构主页
 1. [浙江大学陈华钧教授知识图谱课程](https://person.zju.edu.cn/huajun)
 2. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
 3. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
-4. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)
+4. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)| [图神经网络工具包pyg](https://github.com/pyg-team/pytorch_geometric)
 5. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
 6. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 7. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
