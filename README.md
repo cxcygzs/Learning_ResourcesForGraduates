@@ -18,7 +18,7 @@
 5. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
 6. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 7. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
-
+---
 ### 知识图谱相关书籍
 1. [Knowledge Graphs Methodology, Tools and Selected Use Cases](https://github.com/cxcygzs/Learning_Resources/files/10046420/Knowledge.Graphs.Methodology.Tools.and.Selected.Use.Cases.pdf)
 2. [Knowledge Graphs and Big Data Processing Authors: Valentina Janev et al.](https://library.oapen.org/handle/20.500.12657/41294)
@@ -54,19 +54,19 @@
 10. [IEEE International Conference on Big Knowledge (ICBK) IEEE International Conference on Knowledge Graph (ICKG)](https://dblp.uni-trier.de/db/conf/icbk/index.html)
 11. [Iberoamerican Conference on Knowledge Graphs and Semantic Web (KGSWC) ](https://dblp.uni-trier.de/db/conf/kgswc/index.html)
 12. [China Conference on Knowledge Graph and Semantic Computing (CCKS)中文会议 ](https://dblp.uni-trier.de/db/conf/ccks/index.html)
-
+---
 ### 知识图谱相关期刊
 1. [Knowledge-Based Systems](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A)
 2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
 3. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A)
 4. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
-
+---
 ### 如何写论文
 1. [高质量读研：教你如何写论文、做科研](https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrZejWdLygv94jYmnENDxAMZJBkbNzEblgQ)
 2. [怎样顺利完成论文：论文写作的策略与技巧（第四版）](https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7Geawrbx6pNgznl9VZPLJQyEBodb89mqoO)
 3. [Zobel - Writing for computer science 3rd edition](https://github.com/cxcygzs/Learning_Resources/files/10046946/Zobel.-.Writing.for.computer.science.3rd.edition.-.pdf)
 
-
+---
 ### 知识图谱系统
 1. [The Linked Open Data Cloud](https://lod-cloud.net/)
 2. [DBpedia](https://www.dbpedia.org/)         [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
@@ -82,6 +82,7 @@
 12. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
 13. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
 14. [K12基础教育知识图谱](https://edukg.cn/)
+---
 ### 实验室自建知识图谱系统
 1. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
 2. [食品安全知识图谱](http://124.222.11.46:8081/login/)
