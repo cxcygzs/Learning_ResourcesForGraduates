@@ -85,7 +85,7 @@
 12. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
 13. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
 14. [K12基础教育知识图谱](https://edukg.cn/)
-15. [刘焕勇中国科学院软件研究所-人物知识图谱](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)
+15. [刘焕勇中国科学院软件研究所-人物知识图谱数据集](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)
 ---
 ### 实验室自建知识图谱系统
 1. [网络安全漏洞知识图谱](http://124.222.11.46:8082/index)
