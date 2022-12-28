@@ -25,7 +25,8 @@
 1. 3月份大论文要写好，准备送外审！准备毕业答辩！
 ---
 ### 知识图谱相关综述
-1. [From Symbols to Embeddings：A Tale of Two Representationsin Computational Social.pdf](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10313630/From.Symbols.to.Embeddings.A.Tale.of.Two.Representationsin.Computational.Social.pdf)
+1. [如何写出一篇优秀的文献综述？|《自然》专访](http://www.naturechina.com/solutions/literature_review)
+2. [From Symbols to Embeddings：A Tale of Two Representationsin Computational Social.pdf](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10313630/From.Symbols.to.Embeddings.A.Tale.of.Two.Representationsin.Computational.Social.pdf)
 | [文中的参考文献](https://github.com/thunlp/CSSReview)
 2. [A review of knowledge graph application scenarios in cyber security](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314038/A.review.of.knowledge.graph.application.scenarios.in.cyber.security1.pdf)
 3. [A survey on knowledge graphs Representation, acquisition, and applications](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314086/A.survey.on.knowledge.graphs.Representation.acquisition.and.applications.pdf)
