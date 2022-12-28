@@ -25,7 +25,7 @@
 ---
 ### 知识图谱相关综述
 1. [From Symbols to Embeddings：A Tale of Two Representationsin Computational Social.pdf](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10313630/From.Symbols.to.Embeddings.A.Tale.of.Two.Representationsin.Computational.Social.pdf)
-[文中的参考文献](https://github.com/thunlp/CSSReview)
+|[文中的参考文献](https://github.com/thunlp/CSSReview)
 
 ---
 ### 知识图谱各研究方向论文及数据集
