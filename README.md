@@ -27,6 +27,15 @@
 1. [From Symbols to Embeddings：A Tale of Two Representationsin Computational Social.pdf](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10313630/From.Symbols.to.Embeddings.A.Tale.of.Two.Representationsin.Computational.Social.pdf)
 | [文中的参考文献](https://github.com/thunlp/CSSReview)
 2. [A review of knowledge graph application scenarios in cyber security](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314038/A.review.of.knowledge.graph.application.scenarios.in.cyber.security1.pdf)
+3. [A survey on knowledge graphs Representation, acquisition, and applications](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314086/A.survey.on.knowledge.graphs.Representation.acquisition.and.applications.pdf)
+4. [Knowledge graph application in education ：a literature review](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314089/Knowledge.graph.application.in.education.a.literature.review.pdf)
+5. [Knowledge_Graph_Completion_A_Review](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314108/Knowledge_Graph_Completion_A_Review.pdf)
+6. [A review Knowledge reasoning over knowledge graph](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314146/A.review.Knowledge.reasoning.over.knowledge.graph.pdf)
+7. [Knowledge Graph Embedding A Survey of Approaches and Applications](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/10314147/Knowledge.Graph.Embedding.A.Survey.of.Approaches.and.Applications.pdf)
+
+
+
+
 
 
 ---
