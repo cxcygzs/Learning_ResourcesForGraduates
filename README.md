@@ -105,9 +105,10 @@
 ---
 ### 如何做科研写论文
 1. [高质量读研：教你如何写论文、做科研](https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrZejWdLygv94jYmnENDxAMZJBkbNzEblgQ)
-2. [怎样顺利完成论文：论文写作的策略与技巧（第四版）](https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7Geawrbx6pNgznl9VZPLJQyEBodb89mqoO)
-3. [Zobel - Writing for computer science 3rd edition](https://github.com/cxcygzs/Learning_Resources/files/10046946/Zobel.-.Writing.for.computer.science.3rd.edition.-.pdf)
-4. [Advice and resources for thriving and surviving graduate school from Georgia Tech](https://github.com/poloclub/awesome-grad-school)
+2. [研究生高分论文写作（第四版）](https://www.dedao.cn/ebook/detail?id=bBVDEXGGLn7eB51b8NjVRqDoQJPMk3a7RP0adYrXmAxE4Ov92lgzK6ZypxLqdQjp)
+3. [怎样顺利完成论文：论文写作的策略与技巧（第四版）](https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7Geawrbx6pNgznl9VZPLJQyEBodb89mqoO)
+4. [Zobel - Writing for computer science 3rd edition](https://github.com/cxcygzs/Learning_Resources/files/10046946/Zobel.-.Writing.for.computer.science.3rd.edition.-.pdf)
+5. [Advice and resources for thriving and surviving graduate school from Georgia Tech](https://github.com/poloclub/awesome-grad-school)
 
 ---
 ### 知识图谱系统
