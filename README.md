@@ -88,7 +88,7 @@
 17. [从零构建知识图谱 技术、方法与案例](https://github.com/cxcygzs/Learning_Resources/files/10049088/default.pdf)
 ---
 ### 知识图谱与大语言模型
-1. [Ask ChatGPT and Get an Annotated Response演示系统链接](https://demos.isl.ics.forth.gr/GPToLODS/demo#main)[Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses论文下载](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/11496662/Using.Multiple.RDF.Knowledge.Graphs.for.Enriching.ChatGPT.Responses.pdf)
+1. [Ask ChatGPT and Get an Annotated Response演示系统链接](https://demos.isl.ics.forth.gr/GPToLODS/demo#main)  |[Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses论文下载](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/11496662/Using.Multiple.RDF.Knowledge.Graphs.for.Enriching.ChatGPT.Responses.pdf)
 
 ---
 ### 知识图谱相关会议
