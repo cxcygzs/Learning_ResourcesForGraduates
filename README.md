@@ -107,10 +107,17 @@
 13. [China Conference on Knowledge Graph and Semantic Computing (CCKS)中文会议 ](https://dblp.uni-trier.de/db/conf/ccks/index.html)
 ---
 ### 知识图谱相关期刊
-1. [Knowledge-Based Systems](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A)
-2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
-3. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A)
+#### CCF推荐A刊
+1. [IEEE Transactions on Knowledge and Data Engineering]([http://dblp.uni-trier.de/db/journals/tkdd/](http://dblp.uni-trier.de/db/journals/tkde/))
+
+#### CCF推荐B刊
+1. [ACM Transactions on Knowledge Discovery from Data](http://dblp.uni-trier.de/db/journals/tkdd/)
+2. [Knowledge-Based Systems](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A)
+3. [Information Processing and Management](http://dblp.uni-trier.de/db/journals/ipm/)
 4. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
+#### CCF推荐C刊
+1. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
+2. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) 
 ---
 ### 如何做科研写论文
 1. [高质量读研：教你如何写论文、做科研](https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrZejWdLygv94jYmnENDxAMZJBkbNzEblgQ)
