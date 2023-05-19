@@ -92,19 +92,28 @@
 
 ---
 ### 知识图谱相关会议
+#### CCF推荐A会
+1. [ACM Knowledge Discovery and Data Mining(SIGKDD)](http://dblp.uni-trier.de/db/conf/kdd/)
+2. [International World Wide Web Conferences(AAAI-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Faaai%3A)
+3. [WWW-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fwww%3A)
+4. [Annual Meeting of the Association for Computational Linguistics(ACL-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Facl%3A)
+5. [International Joint Conference on Artificial Intelligence(IJCAI-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fijcai%3A)
+#### CCF推荐B会
+1. [CIKM-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fcikm%3A)
+2. [Conference on Empirical Methods in Natural Language Processing(EMNLP-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Femnlp%3A)
+3. [International Conference on Principles of Knowledge Representation and Reasoning](http://dblp.uni-trier.de/db/conf/kr/)
+
+#### CCF推荐C会
+1. [International Conference on Software Engineering and Knowledge Engineering](http://dblp.uni-trier.de/db/conf/seke/)
+2. [Pacific-Asia Conference on Knowledge Discovery and Data Mining](http://dblp.uni-trier.de/db/conf/pakdd/)
+
+#### 以知识图谱为主题的会
 1. [The Knowledge Graph Conference](https://www.knowledgegraph.tech/)
-2. [AAAI-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Faaai%3A)
-3. [KDD-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fkdd%3A)
-4. [CIKM-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fcikm%3A)
-5. [WWW-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fwww%3A)
-6. [EMNLP-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Femnlp%3A)
-7. [ACL-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Facl%3A)
-8. [IJCAI-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fijcai%3A)
-9. [International Joint Conference on Knowledge Graphs (IJCKG)](https://dblp.uni-trier.de/db/conf/jist/index.html)
-10. [International Workshop on Graph Structures for Knowledge Representation and Reasoning (GKR)](https://dblp.uni-trier.de/db/conf/gkr/index.html)
-11. [IEEE International Conference on Big Knowledge (ICBK) IEEE International Conference on Knowledge Graph (ICKG)](https://dblp.uni-trier.de/db/conf/icbk/index.html)
-12. [Iberoamerican Conference on Knowledge Graphs and Semantic Web (KGSWC) ](https://dblp.uni-trier.de/db/conf/kgswc/index.html)
-13. [China Conference on Knowledge Graph and Semantic Computing (CCKS)中文会议 ](https://dblp.uni-trier.de/db/conf/ccks/index.html)
+2. [International Joint Conference on Knowledge Graphs (IJCKG)](https://dblp.uni-trier.de/db/conf/jist/index.html)
+3. [International Workshop on Graph Structures for Knowledge Representation and Reasoning (GKR)](https://dblp.uni-trier.de/db/conf/gkr/index.html)
+4. [IEEE International Conference on Big Knowledge (ICBK) IEEE International Conference on Knowledge Graph (ICKG)](https://dblp.uni-trier.de/db/conf/icbk/index.html)
+5. [Iberoamerican Conference on Knowledge Graphs and Semantic Web (KGSWC) ](https://dblp.uni-trier.de/db/conf/kgswc/index.html)
+6. [China Conference on Knowledge Graph and Semantic Computing (CCKS)中文会议 ](https://dblp.uni-trier.de/db/conf/ccks/index.html)
 ---
 ### 知识图谱相关期刊
 #### CCF推荐A刊
@@ -112,12 +121,16 @@
 
 #### CCF推荐B刊
 1. [ACM Transactions on Knowledge Discovery from Data](http://dblp.uni-trier.de/db/journals/tkdd/)
-2. [Knowledge-Based Systems](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A)
-3. [Information Processing and Management](http://dblp.uni-trier.de/db/journals/ipm/)
-4. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
+2. [Data and Knowledge Engineering](http://dblp.uni-trier.de/db/journals/dke/)
+3. [Data Mining and Knowledge Discovery](http://dblp.uni-trier.de/db/journals/datamine/)
+4. [Knowledge-Based Systems](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A)
+5. [Information Processing and Management](http://dblp.uni-trier.de/db/journals/ipm/)
+6. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
+7. [Knowledge and Information Systems](http://dblp.uni-trier.de/db/journals/kais/)
 #### CCF推荐C刊
 1. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
-2. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) 
+2. [International Journal of Knowledge Management](http://dblp.uni-trier.de/db/journals/ijkm/)
+3. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) 
 ---
 ### 如何做科研写论文
 1. [高质量读研：教你如何写论文、做科研](https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrZejWdLygv94jYmnENDxAMZJBkbNzEblgQ)
