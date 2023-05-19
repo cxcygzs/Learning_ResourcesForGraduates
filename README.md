@@ -92,7 +92,7 @@
 
 ---
 ### 知识图谱相关会议
-1. [knowledgegraph](https://www.knowledgegraph.tech/)
+1. [The Knowledge Graph Conference](https://www.knowledgegraph.tech/)
 2. [AAAI-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Faaai%3A)
 3. [KDD-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fkdd%3A)
 4. [CIKM-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fcikm%3A)
