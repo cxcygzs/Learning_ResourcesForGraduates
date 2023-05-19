@@ -95,17 +95,17 @@
 #### CCF推荐A会
 1. [ACM Knowledge Discovery and Data Mining(SIGKDD)](http://dblp.uni-trier.de/db/conf/kdd/)
 2. [International World Wide Web Conferences(AAAI-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Faaai%3A)
-3. [WWW-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fwww%3A)
+3. [International World Wide Web Conferences(WWW-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fwww%3A)
 4. [Annual Meeting of the Association for Computational Linguistics(ACL-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Facl%3A)
 5. [International Joint Conference on Artificial Intelligence(IJCAI-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fijcai%3A)
 #### CCF推荐B会
-1. [CIKM-DBLP](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fcikm%3A)
+1. [ACM International Conference on Information and Knowledge Management(CIKM-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Fcikm%3A)
 2. [Conference on Empirical Methods in Natural Language Processing(EMNLP-DBLP)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Aconf%2Femnlp%3A)
-3. [International Conference on Principles of Knowledge Representation and Reasoning](http://dblp.uni-trier.de/db/conf/kr/)
+3. [International Conference on Principles of Knowledge Representation and Reasoning(KR)](http://dblp.uni-trier.de/db/conf/kr/)
 
 #### CCF推荐C会
-1. [International Conference on Software Engineering and Knowledge Engineering](http://dblp.uni-trier.de/db/conf/seke/)
-2. [Pacific-Asia Conference on Knowledge Discovery and Data Mining](http://dblp.uni-trier.de/db/conf/pakdd/)
+1. [International Conference on Software Engineering and Knowledge Engineering(SEKE)](http://dblp.uni-trier.de/db/conf/seke/)
+2. [Pacific-Asia Conference on Knowledge Discovery and Data Mining(PAKDD)](http://dblp.uni-trier.de/db/conf/pakdd/)
 
 #### 以知识图谱为主题的会
 1. [The Knowledge Graph Conference](https://www.knowledgegraph.tech/)
