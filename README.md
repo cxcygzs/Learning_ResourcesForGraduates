@@ -108,7 +108,7 @@
 ---
 ### 知识图谱相关期刊
 #### CCF推荐A刊
-1. [IEEE Transactions on Knowledge and Data Engineering]([http://dblp.uni-trier.de/db/journals/tkdd/](http://dblp.uni-trier.de/db/journals/tkde/)
+1. [IEEE Transactions on Knowledge and Data Engineering](http://dblp.uni-trier.de/db/journals/tkde/)
 
 #### CCF推荐B刊
 1. [ACM Transactions on Knowledge Discovery from Data](http://dblp.uni-trier.de/db/journals/tkdd/)
