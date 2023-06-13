@@ -80,7 +80,7 @@
 9. [KNOWLEDGE GRAPHS](https://kgbook.org/) [github link](https://github.com/Knowledge-Graphs-Book/HTML-Book/)
 10. [Knowledge Graphs: A Practical Introduction across Disciplines](https://usc-isi-i2.github.io/ASONAM2020Tutorial/2020-12-asonam-tutorial-KG.pdf)
 11. [Knowledge Graphs Applied ](https://www.manning.com/books/knowledge-graphs-applied)
-12. [从零构建知识图谱 技术、方法与案例](https://github.com/cxcygzs/Learning_Resources/files/10049088/default.pdf)[本书代码github地址](https://github.com/zhangkai-ai/build-kg-from-scratch)
+12. [从零构建知识图谱 技术、方法与案例](https://github.com/cxcygzs/Learning_Resources/files/10049088/default.pdf)   [本书代码github地址](https://github.com/zhangkai-ai/build-kg-from-scratch)
 13. 《知识图谱：概念与技术》，肖仰华等著，可作为高年级本科生、硕士生或者博士生的教材
 14. 《从零构建知识图谱：技术、方法与案例》，邵浩等著，配有实战案例，开放源代码
 15. 《知识图谱：方法、实践与应用》，王昊奋，漆桂林，陈华钧编
