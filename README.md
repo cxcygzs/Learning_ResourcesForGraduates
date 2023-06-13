@@ -85,8 +85,7 @@
 14. 《从零构建知识图谱：技术、方法与案例》，邵浩等著，配有实战案例，开放源代码
 15. 《知识图谱：方法、实践与应用》，王昊奋，漆桂林，陈华钧编
 16. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
-17. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT）
-18. 
+17. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT） 
 ---
 ### 知识图谱与大语言模型
 1. [Ask ChatGPT and Get an Annotated Response演示系统链接](https://demos.isl.ics.forth.gr/GPToLODS/demo#main)  |[Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses论文下载](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/11496662/Using.Multiple.RDF.Knowledge.Graphs.for.Enriching.ChatGPT.Responses.pdf)
