@@ -88,8 +88,8 @@
 ---
 ### 知识图谱与大语言模型
 1. [Ask ChatGPT and Get an Annotated Response演示系统链接](https://demos.isl.ics.forth.gr/GPToLODS/demo#main)  |[Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses论文下载](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/11496662/Using.Multiple.RDF.Knowledge.Graphs.for.Enriching.ChatGPT.Responses.pdf)
-2. [基于大模型的知识抽取工具（陈华钧团队）]([https://github.com/zjunlp/DeepKE/tree/main/example/llm](https://github.com/zjunlp/DeepKE/blob/main/example/llm/README_CN.md))
-3. [知识图谱与大模型论文]（https://github.com/zjukg/KG-LLM-Papers）
+2. [基于大模型的知识抽取工具（陈华钧团队）](https://github.com/zjunlp/DeepKE/blob/main/example/llm/README_CN.md)
+3. [知识图谱与大模型论文](https://github.com/zjukg/KG-LLM-Papers)
 
 ---
 ### 知识图谱相关会议
