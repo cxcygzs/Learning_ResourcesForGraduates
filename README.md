@@ -151,7 +151,7 @@
 7. [NELL](https://www.cmu.edu/homepage/computing/2010/fall/nell-computer-that-learns.shtml)
 8. [网络空间安全知识图谱Sepses 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/sparql)
 9. [Cybersecurity demo for Neo4j's Connections: Graphs in Cybersecurity 2021](https://github.com/neo4j-graph-examples/cybersecurity)
-10. [Introduction to STIX](https://oasis-open.github.io/cti-documentation/stix/intro)[STIX Viewer输入网页链接或者Json文件生成图谱](https://oasis-open.github.io/cti-stix-visualization/?url=https://raw.githubusercontent.com/oasis-open/cti-documentation/master/examples/example_json/using-granular-markings.json)
+10. [Introduction to STIX](https://oasis-open.github.io/cti-documentation/stix/intro)|[STIX Viewer输入网页链接或者Json文件生成图谱](https://oasis-open.github.io/cti-stix-visualization/?url=https://raw.githubusercontent.com/oasis-open/cti-documentation/master/examples/example_json/using-granular-markings.json)
 11. [开放的中文知识图谱](http://www.openkg.cn/)
 12. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
 13. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
