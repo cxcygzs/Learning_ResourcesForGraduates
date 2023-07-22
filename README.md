@@ -80,6 +80,10 @@
 15. 《知识图谱与深度学习》刘知远，韩旭，孙茂松著
 16. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT） 
 ---
+### 知识图谱构建工具
+1.[浙江大学支持cnSchema、低资源、长篇章、多模态的知识图谱抽取开源工具](http://deepke.zjukg.cn/CN/re_doc_show.html)
+
+---
 ### 知识图谱与大语言模型
 1. [Ask ChatGPT and Get an Annotated Response演示系统链接](https://demos.isl.ics.forth.gr/GPToLODS/demo#main)  |[Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses论文下载](https://github.com/cxcygzs/Learning_ResourcesForGraduates/files/11496662/Using.Multiple.RDF.Knowledge.Graphs.for.Enriching.ChatGPT.Responses.pdf)
 2. [清华大学通用语言模型ChatGLM-6B ](https://huggingface.co/THUDM/chatglm-6b)
