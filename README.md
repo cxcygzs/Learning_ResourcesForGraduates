@@ -81,8 +81,8 @@
 16. 《TensorFlow知识图谱实战》，王晓华著，（有代码PPT） 
 ---
 ### 知识图谱构建工具
-1.[浙江大学支持cnSchema、低资源、长篇章、多模态的知识图谱抽取开源工具](http://deepke.zjukg.cn/CN/re_doc_show.html)
-2.[Introduction to STIX](https://oasis-open.github.io/cti-documentation/stix/intro)|[STIX Viewer输入网页链接或者Json文件生成图谱](https://oasis-open.github.io/cti-stix-visualization/?url=https://raw.githubusercontent.com/oasis-open/cti-documentation/master/examples/example_json/using-granular-markings.json)
+1. [浙江大学支持cnSchema、低资源、长篇章、多模态的知识图谱抽取开源工具](http://deepke.zjukg.cn/CN/re_doc_show.html)
+2. [Introduction to STIX](https://oasis-open.github.io/cti-documentation/stix/intro)|[STIX Viewer输入网页链接或者Json文件生成图谱](https://oasis-open.github.io/cti-stix-visualization/?url=https://raw.githubusercontent.com/oasis-open/cti-documentation/master/examples/example_json/using-granular-markings.json)
 
 ---
 ### 知识图谱与大语言模型
