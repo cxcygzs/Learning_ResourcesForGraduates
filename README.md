@@ -1,7 +1,7 @@
 # [研究生知识图谱学习资源](https://github.com/cxcygzs/Learning_Resources/edit/main/README.md)
 # 目录
 
-- [研究生时间规划](### 研究生时间规划)
+- [研究生时间规划](#研究生时间规划)
 - [如何阅读论文（转自施一公）](#子标题2)
 
 
