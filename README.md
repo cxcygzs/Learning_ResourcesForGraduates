@@ -60,7 +60,7 @@
 5. [斯坦福大学Jure Leskovec主页](https://cs.stanford.edu/people/jure/)|[斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)|[图神经网络工具包pyg链接Graph Neural Network Library for PyTorch](https://github.com/pyg-team/pytorch_geometric)
 6. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
 7. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
-8. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
+
 ---
 ### 知识图谱相关书籍
 1. [Knowledge Graphs Methodology, Tools and Selected Use Cases](https://github.com/cxcygzs/Learning_Resources/files/10046420/Knowledge.Graphs.Methodology.Tools.and.Selected.Use.Cases.pdf)
@@ -149,21 +149,22 @@
 ### 知识图谱系统
 1. [The Linked Open Data Cloud](https://lod-cloud.net/)
 2. [DBpedia](https://www.dbpedia.org/)         [针对dbpedia的sparql在线查询平台](https://yasgui.triply.cc/)
-3. [YAGO: A High-Quality Knowledge Base](https://yago-knowledge.org/)
-4. [GDELT Project](https://www.gdeltproject.org/)
-5. [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
-6. [WordNet](https://wordnet.princeton.edu/)
-7. [NELL](https://www.cmu.edu/homepage/computing/2010/fall/nell-computer-that-learns.shtml)
-8. [网络空间安全知识图谱Sepses 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/sparql)
-9. [Cybersecurity demo for Neo4j's Connections: Graphs in Cybersecurity 2021](https://github.com/neo4j-graph-examples/cybersecurity)
-10. [Introduction to STIX](https://oasis-open.github.io/cti-documentation/stix/intro)|[STIX Viewer输入网页链接或者Json文件生成图谱](https://oasis-open.github.io/cti-stix-visualization/?url=https://raw.githubusercontent.com/oasis-open/cti-documentation/master/examples/example_json/using-granular-markings.json)
-11. [开放的中文知识图谱](http://www.openkg.cn/)
-12. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
-13. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
-14. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
-15. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
-16. [K12基础教育知识图谱](https://edukg.cn/)
-17. [刘焕勇中国科学院软件研究所-人物知识图谱数据集](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)
+3. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
+4. [YAGO: A High-Quality Knowledge Base](https://yago-knowledge.org/)
+5. [GDELT Project](https://www.gdeltproject.org/)
+6. [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+7. [WordNet](https://wordnet.princeton.edu/)
+8. [NELL](https://www.cmu.edu/homepage/computing/2010/fall/nell-computer-that-learns.shtml)
+9. [网络空间安全知识图谱Sepses 可以通过sparql endpoint 查询](https://sepses.ifs.tuwien.ac.at/sparql)
+10. [Cybersecurity demo for Neo4j's Connections: Graphs in Cybersecurity 2021](https://github.com/neo4j-graph-examples/cybersecurity)
+11. [Introduction to STIX](https://oasis-open.github.io/cti-documentation/stix/intro)|[STIX Viewer输入网页链接或者Json文件生成图谱](https://oasis-open.github.io/cti-stix-visualization/?url=https://raw.githubusercontent.com/oasis-open/cti-documentation/master/examples/example_json/using-granular-markings.json)
+12. [开放的中文知识图谱](http://www.openkg.cn/)
+13. [中国近代历史人物知识图谱](http://www.zjuwtx.work/project/kg/intro/)
+14. [唐诗知识图谱](http://tsby.e.bnu.edu.cn/)
+15. [李白迁徙图](http://tsby.e.bnu.edu.cn/web/sc/home/migration?id=5CCA4A88-32BF-4E53-A046-F83C6FBE8AB4)
+16. [李白为中心节点的知识图谱](http://tsby.e.bnu.edu.cn/web/sc/home/poet-visual?id=5cca4a88-32bf-4e53-a046-f83c6fbe8ab4)
+17. [K12基础教育知识图谱](https://edukg.cn/)
+18. [刘焕勇中国科学院软件研究所-人物知识图谱数据集](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)
 ---
 ### 实验室自建知识图谱系统
 1.  [疫情流调分析](https://graphxr.kineviz.com/projects)[检索输入杨铠冰]
