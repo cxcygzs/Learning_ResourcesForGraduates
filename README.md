@@ -57,7 +57,7 @@
 2. [复旦大学肖仰华教授《知识图谱：概念与技术》课程](http://kw.fudan.edu.cn/workshop/kgbook)
 3. [UMBC 	Tim Finin 《knowlegdge graph》 course](https://redirect.cs.umbc.edu/courses/graduate/691/fall22/kg/)
 4. [Maastricht University 《knowledge graph》course](https://github.com/MaastrichtU-IDS/building-and-mining-knowledge-graphs-course-materials)
-5. [斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)|[图神经网络工具包pyg链接Graph Neural Network Library for PyTorch](https://github.com/pyg-team/pytorch_geometric)
+5. [斯坦福大学Jure Leskovec主页](https://cs.stanford.edu/people/jure/)|[斯坦福大学Jure Leskovec《Machine Learning with Graphs》课程](http://web.stanford.edu/class/cs224w/index.html)|[图神经网络工具包pyg链接Graph Neural Network Library for PyTorch](https://github.com/pyg-team/pytorch_geometric)
 6. [UIUC Ji Heng 实验室](http://blender.cs.illinois.edu/publications/)
 7. [Knowledge Graphs：A curated collection of research on knowledge graphs](https://shaoxiongji.github.io/knowledge-graphs/)
 8. [dbpedia如何从Wikipedia中抽取知识github](https://github.com/dbpedia/)
