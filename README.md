@@ -161,6 +161,7 @@
 3. [怎样顺利完成论文：论文写作的策略与技巧（第四版）](https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7Geawrbx6pNgznl9VZPLJQyEBodb89mqoO)
 4. [Zobel - Writing for computer science 3rd edition](https://github.com/cxcygzs/Learning_Resources/files/10046946/Zobel.-.Writing.for.computer.science.3rd.edition.-.pdf)
 5. [Advice and resources for thriving and surviving graduate school from Georgia Tech](https://github.com/poloclub/awesome-grad-school)
+6. [清华大学Aminer科技情报大数据平台](https://www.aminer.cn/)
 
 ---
 ### 知识图谱系统
