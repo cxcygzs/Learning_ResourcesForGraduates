@@ -162,6 +162,7 @@
 4. [Zobel - Writing for computer science 3rd edition](https://github.com/cxcygzs/Learning_Resources/files/10046946/Zobel.-.Writing.for.computer.science.3rd.edition.-.pdf)
 5. [Advice and resources for thriving and surviving graduate school from Georgia Tech](https://github.com/poloclub/awesome-grad-school)
 6. [清华大学Aminer科技情报大数据平台](https://www.aminer.cn/)
+7. [DBLP计算机类论文检索](https://dblp.uni-trier.de/db/)
 
 ---
 ### 知识图谱系统
