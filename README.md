@@ -148,12 +148,14 @@
 4. [Information Processing and Management](http://dblp.uni-trier.de/db/journals/ipm/)
 5. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
 6. [Knowledge and Information Systems](http://dblp.uni-trier.de/db/journals/kais/)
+
 #### CCF推荐C刊
 1. [Knowledge-Based Systems(KBS)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A)
 2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
-3. [International Journal of Knowledge Management](http://dblp.uni-trier.de/db/journals/ijkm/)
-4. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) 
-5. [International Journal of Uncertainty,Fuzziness and Knowledge-Based System(IJUFKS)](https://dblp.uni-trier.de/db/journals/ijufks/)
+3. [International Journal of Software Engineering and Knowledge Engineering](http://dblp.uni-trier.de/db/journals/ijseke/index.html)
+4. [International Journal of Knowledge Management](http://dblp.uni-trier.de/db/journals/ijkm/)
+5. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) 
+6. [International Journal of Uncertainty,Fuzziness and Knowledge-Based System(IJUFKS)](https://dblp.uni-trier.de/db/journals/ijufks/)
 ---
 ### 如何做科研写论文
 1. [高质量读研：教你如何写论文、做科研](https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrZejWdLygv94jYmnENDxAMZJBkbNzEblgQ)
