@@ -143,19 +143,24 @@
 
 #### CCF推荐B刊
 1. [ACM Transactions on Knowledge Discovery from Data](http://dblp.uni-trier.de/db/journals/tkdd/)
-2. [Data and Knowledge Engineering](http://dblp.uni-trier.de/db/journals/dke/)
+2. [Data and Knowledge Engineering](http://dblp.uni-trier.de/db/journals/dke/)[CiteScore 4.0 Impact Factor 2.5 Acceptance rate 10% Time to 1st decision 10 weeks
+Time to publication 3 weeks]
 3. [Data Mining and Knowledge Discovery](http://dblp.uni-trier.de/db/journals/datamine/)
-4. [Information Processing and Management](http://dblp.uni-trier.de/db/journals/ipm/)
-5. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)
+4. [Information Processing and Management](http://dblp.uni-trier.de/db/journals/ipm/)[CiteScore 14.8 Impact Factor 8.6 Acceptance rate 11% Time to 1st decision
+3 weeks Time to publication 3 weeks]
+5. [Information Sciences](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fisci%3A)[CiteScore 13.4 Impact Factor 8.1 Acceptance rate
+18%  Time to 1st decision 6 weeks Time to publication 3 weeks]
 6. [Knowledge and Information Systems](http://dblp.uni-trier.de/db/journals/kais/)
 
 #### CCF推荐C刊
-1. [Knowledge-Based Systems(KBS)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A) [主页](https://www.sciencedirect.com/journal/knowledge-based-systems) [Review Time:7.8 weeks; Publication Time:1.3 weeks]
+1. [Knowledge-Based Systems(KBS)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A) [主页](https://www.sciencedirect.com/journal/knowledge-based-systems) [CiteScore 12.3 Impact Factor 8.8 Acceptance rate 17% Time to 1st decision
+5 weeks Time to publication 3 weeks]
 2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)[CiteScore
 12.6 Impact Factor 8.5 Acceptance rate 25% Time to 1st decision 14 weeks Time to publication 3 weeks]
 3. [International Journal of Software Engineering and Knowledge Engineering](http://dblp.uni-trier.de/db/journals/ijseke/index.html)
 4. [International Journal of Knowledge Management](http://dblp.uni-trier.de/db/journals/ijkm/)
-5. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) 
+5. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) [CiteScore 10.8 Impact Factor
+6.0 Acceptance rate 17% Time to 1st decision 6 weeks Time to publication 6 weeks]
 6. [International Journal of Uncertainty,Fuzziness and Knowledge-Based System(IJUFKS)](https://dblp.uni-trier.de/db/journals/ijufks/)
 ---
 ### 如何做科研写论文
