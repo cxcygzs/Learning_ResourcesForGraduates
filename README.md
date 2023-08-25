@@ -150,8 +150,9 @@
 6. [Knowledge and Information Systems](http://dblp.uni-trier.de/db/journals/kais/)
 
 #### CCF推荐C刊
-1. [Knowledge-Based Systems(KBS)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A) [主页](https://www.sciencedirect.com/journal/knowledge-based-systems) [7.8 weeks:Review Time; 1.3 weeks Publication Time]
-2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)
+1. [Knowledge-Based Systems(KBS)](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fkbs%3A) [主页](https://www.sciencedirect.com/journal/knowledge-based-systems) [Review Time:7.8 weeks; Publication Time:1.3 weeks]
+2. [Expert Systems with Applications](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Feswa%3A)[CiteScore
+12.6 Impact Factor 8.5 Acceptance rate 25% Time to 1st decision 14 weeks Time to publication 3 weeks]
 3. [International Journal of Software Engineering and Knowledge Engineering](http://dblp.uni-trier.de/db/journals/ijseke/index.html)
 4. [International Journal of Knowledge Management](http://dblp.uni-trier.de/db/journals/ijkm/)
 5. [Neurocomputing](https://dblp.uni-trier.de/search?q=knowledge%20graph%20streamid%3Ajournals%2Fijon%3A) 
